@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proxifying on Sons of Liberty</title>
+    <link>https://sonsofliberty.click/tags/proxifying/</link>
+    <description>Recent content in Proxifying on Sons of Liberty</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Sons of Liberty. All right reserved</copyright>
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sonsofliberty.click/tags/proxifying/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Run TOR Bridge ?</title>
+      <link>https://sonsofliberty.click/posts/tor/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sonsofliberty.click/posts/tor/</guid>
+      <description>How to Deploy OBFS4 and WebTunnel Bridges ?</description>
+    </item>
+    <item>
+      <title>SniProxy</title>
+      <link>https://sonsofliberty.click/posts/sniproxy/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sonsofliberty.click/posts/sniproxy/</guid>
+      <description>How to proxify SNIs to cloak your real IP address ?!</description>
+    </item>
+  </channel>
+</rss>
